@@ -1,0 +1,6 @@
+	Ozone	 numeric	 Ozone
+	SolarR	 numeric	 Solar R (lang)
+	Wind	 numeric	 Wind (mph)
+	Temp	 numeric	 Temperature (degrees F)
+	Month	 numeric	 Month (1--12)
+	Day	 numeric	 Day of month (1--31)
